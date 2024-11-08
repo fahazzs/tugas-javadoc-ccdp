@@ -1,8 +1,8 @@
 <h1>tugas-javadoc-ccdp</h1>
 
-<p>Nama : Muhammad Fahaz Ilyasa </p>  
-<p>NIM  : 10121086</p>
-<p>Kelas: IF 3</p>
+<h2>Nama : Muhammad Fahaz Ilyasa </h2>  
+<h2>NIM  : 10121086</h2>
+<h2>Kelas: IF 3</h2>
 
-javadoc path:
-MenghitungJarakJelajahCahaya/src/main/java/com/mycompany/menghitungjarakjelajahcahaya
+<p>javadoc path:</p>
+<p><i>MenghitungJarakJelajahCahaya/src/main/java/com/mycompany/menghitungjarakjelajahcahaya/index.html</i></p>
